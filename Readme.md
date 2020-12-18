@@ -47,7 +47,7 @@ Will be submitted before friday 18.12.2020 noon.
   - Some exercises don't have pictures
   - In abdominal workout section, there's duplicate exercise for sit-ups
   - In personal trainer selection, there is a trainer named "Gymwolf user"
-  - Creating workplan is not located user friendly or logically. Found this only once. 
+  - Creating workplan is not located user-friendly or logically. Found this only once. 
 - Percentage of the session spent on the charter vs investigating new opportunities.
   - 90%/10%
 - Percentage of the session spent on:
@@ -71,8 +71,8 @@ for creating tests.
             - It is good practise to add attributes to elements. Code is
             more readable, automation is more effective (shorter code and
               simpler locators). For example for accessibility elements should 
-              be named. Accessibility is one branch of performance testing. For
-              automation setting id's for elements are probably the best solution,
+              be named. It's important, because accessibility is a branch of 
+              performance testing. For automation, setting id's for elements, is probably the best solution,
               because other attributes might change in dev process. Sometimes setting 
               id's for attributes is not possible/reasonable.
 
